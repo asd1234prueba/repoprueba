@@ -3,7 +3,11 @@
    <description name="MTC Designer" url="http://localhost/MTCDesigner/">
       MTC Designer
    </description>
-   <feature url="features/co.edu.uniandes.csw.mtcproject.feauter_5.0.0.201303121634.jar" id="co.edu.uniandes.csw.mtcproject.feauter" version="5.0.0.201303121634"/>
-   <feature url="features/co.edu.uniandes.csw.mtcproject.feauter_6.0.0.201303122044.jar" id="co.edu.uniandes.csw.mtcproject.feauter" version="6.0.0.201303122044"/>
+   <feature url="features/co.edu.uniandes.csw.mtcproject.feauter_5.0.0.201303121634.jar" id="co.edu.uniandes.csw.mtcproject.feauter" version="5.0.0.201303121634">
+      <category name="MTC Designer"/>
+   </feature>
+   <feature url="features/co.edu.uniandes.csw.mtcproject.feauter_6.0.0.201303122044.jar" id="co.edu.uniandes.csw.mtcproject.feauter" version="6.0.0.201303122044">
+      <category name="MTC Designer"/>
+   </feature>
    <category-def name="MTC Designer" label="MTC Designer"/>
 </site>
